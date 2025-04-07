@@ -1,5 +1,15 @@
 # Matrix_25
 makes a funny matrix effect on win11 
+## Use Guide for `launch_terminals.py`
+
+This guide explains how to use the `launch_terminals.py` script to open multiple terminal windows and run another Python script (by default, `matrix_display.py`) in each.
+
+**Prerequisites:**
+
+* **Python Installation:** Ensure you have Python 3 installed on your system.
+* **`screeninfo` Library (Optional for Random Positioning):** If you want the terminals to attempt to open in random positions (this works best on macOS and Linux), you need to install the `screeninfo` library. You can install it using pip:
+   ```bash
+   pip install screeninfo
 ## Troubleshooting Guide for `launch_terminals.py`
 
 This guide provides steps to troubleshoot common issues you might encounter while running the `launch_terminals.py` script.
